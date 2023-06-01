@@ -53,11 +53,11 @@ body {
 }
 
 .container {
-    max-width: 20rem;
+    max-width: 25rem;
     border-radius: 11px;
     box-shadow: 2px 2px 25px var(--clr-accent-200);
     margin: 0 auto;
-    background-color: var(--clr-primary-100);
+    background-color: var(--clr-accent-100);
 }
 
 .card {
